@@ -1,3 +1,7 @@
+#解题思路手写版#
+
+![](solution.jpg)
+
 #POS机解题思路#
 
 1. 调用formatInputData将数据数据格式化成‘ITEM000003-2’的形式，例如，输入   
@@ -98,5 +102,5 @@
 	 *@param   
 	 *output:准备输出的商品信息     
 	 */  
-   printReceipt(output);s
+   printReceipt(output);
    
